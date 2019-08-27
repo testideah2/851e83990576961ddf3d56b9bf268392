@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.workvtaxi.app"
     versionCode = "10"
-    version     = "1.3.0">
+    version     = "1.4.0">
 
 <name>ТЕСТ. Ситимобил - Водитель</name>
 
@@ -45,10 +45,10 @@
     <icon src="res/android/icon/b0a51f4bce5cb86d9f4ef45f3a1db882.png" density="xxhdpi" />
     <icon src="res/android/icon/161eec051da71c3ae6916b8a4fa67552.png" density="xxxhdpi" />
 
-    <splash src="res/android/screen/a265899e8b7af2110c82db935d091c83.png" density="port-hdpi"/>
-    <splash src="res/android/screen/a26f138b09d6ea89ede1397666ff2e5d.png" density="port-ldpi"/>
-    <splash src="res/android/screen/4c0cb4f952404e9c72561c5b9f0fe022.png" density="port-mdpi"/>
-    <splash src="res/android/screen/a5161b8195657e66f1c27ef426874f95.png" density="port-xhdpi"/>
+    <splash src="res/android/screen/2921d5059283418073c23ebb4fe1a774.png" density="port-hdpi"/>
+    <splash src="res/android/screen/6238cbccf33a1ffa572c7af337f4292a.png" density="port-ldpi"/>
+    <splash src="res/android/screen/9aab1c820f8dba66a284e88a7a81de8e.png" density="port-mdpi"/>
+    <splash src="res/android/screen/6962fa366e923e3b8f559e33433007fb.png" density="port-xhdpi"/>
 </platform>
 
 <platform name="ios">
